@@ -1,0 +1,1 @@
+# ANO.MonoGame.Content.Pipeline
